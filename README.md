@@ -1,2 +1,9 @@
-# paper_biob_risk
-Understanding the paper from Yang 2013 risk based approach to BB
+# Background
+
+Reducing bioburden prior to final sterile filtration is crucial for effective microbial control and risk mitigation in drug manufacturing. The pre-filtration bioburden test is a vital manufacturing control measure and a regulatory requirement. 
+
+The European Medicines Agency (EMA) guidelines sate that the maximum acceptable bioburden before filtration must be specified in the application, typically not more than 10 colony-forming units (CFU) per 100 ml, depending on the volume to be filtered and the filter diameter. If the bioburden exceeds this, pre-filtration through a bacteria-retaining filter is required. The EMA guidelines also allow for a smaller pre-/filtration volume to be tested if justified due to limited availability of the medicinal product in the early stage of drug development.
+
+However, due to the variability and limited sensitivity of microbiological analyses, the precise count may be inaccurate. This variability may lead to either rejecting a batch with an actual bioburden level below the limit or accepting a batch with a bioburden level above the limit. Studies show that a 10 CFU/100 mL limit does not accurately indicate the true bioburden level. US Pharmacopeia (USP) suggests an acceptance criterion of 20 CFU to account for variability. Therefore, the pre-filtration acceptance limit should ensure the bioburden level doesn't exceed the final filter's retention capacity, with a specific probability of assurance.
+
+Modeling shows a 33.4% chance to reject a batch with a true bioburden level of 9 CFU/100 mL and a 50% chance to accept one with 11 CFU/100 mL.
