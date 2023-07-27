@@ -12,3 +12,7 @@ As [Yang et al.](https://journal.pda.org/content/67/6/601) point out in their pa
 
 - The notebook [yang_2013](yang_2013.ipynb) does reproduce the figures from the publication of Yang e. al. in Python.
 - The notebook [dist_fit_mle](dist_fit_mle.ipynb) does explore maximum likelihood for calculating bioburden limits incorporating assay variability.
+
+# Status
+
+Currently I am working on the documentation as well as clarity of the results.
