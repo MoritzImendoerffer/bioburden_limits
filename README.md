@@ -16,3 +16,11 @@ As [Yang et al.](https://journal.pda.org/content/67/6/601) point out in their pa
 # Status
 
 Currently I am working on the documentation as well as clarity of the results.
+
+# Literature
+
+[Yang et al.](https://journal.pda.org/content/67/6/601)
+
+[Statistics for Biotechnology Process Development](https://www.taylorfrancis.com/books/edit/10.1201/9781315120034/statistics-biotechnology-process-development-todd-coffey-harry-yang)
+
+[Bayesian Methods in Pharmaceutical Research](https://www.taylorfrancis.com/books/edit/10.1201/9781315180212/bayesian-methods-pharmaceutical-research-emmanuel-lesaffre-gianluca-baio-bruno-boulanger)
